@@ -1,0 +1,13 @@
+{
+  "name": "eslint-config-react-important-stuff",
+  "version": "1.0.0",
+  "description": "An eslint config for React bugs, jsx accessibility, and no styling",
+  "main": "eslint-config-react-important-stuff.js",
+  "repository": "git@github.com:joeldenning/eslint-config-react-important-stuff.git",
+  "author": "Joel Denning <joeldenning@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "eslint-plugin-jsx-a11y": "^6.2.1",
+    "eslint-plugin-react-hooks": "^1.6.0"
+  }
+}
