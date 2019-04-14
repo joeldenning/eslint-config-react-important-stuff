@@ -79,5 +79,6 @@ module.exports = {
     // jsx-a11y rules
     "jsx-a11y/click-events-have-key-events": "off",
     "jsx-a11y/no-autofocus": "off",
+    "jsx-a11y/no-onchange": "off",
   },
 }
