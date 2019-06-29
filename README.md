@@ -10,7 +10,7 @@ In your eslint config:
 ```json
 {
   "extends": [
-    "important-stuff"
+    "react-important-stuff"
   ]
 }
 ```
