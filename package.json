@@ -7,8 +7,8 @@
   "author": "Joel Denning <joeldenning@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "eslint-config-important-stuff": "^1.0.0",
-    "eslint-plugin-jsx-a11y": "^6.2.1",
-    "eslint-plugin-react-hooks": "^1.6.0"
+    "eslint-config-important-stuff": "^1.1.0",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-react-hooks": "^2.2.0"
   }
 }
