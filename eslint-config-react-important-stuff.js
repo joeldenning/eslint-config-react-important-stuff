@@ -9,8 +9,6 @@ module.exports = {
     "jsx-a11y",
   ],
 
-  "parser": "babel-eslint",
-
   "settings": {
     "react": {
       "version": "detect"
