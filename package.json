@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-react-important-stuff",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "An eslint config for React bugs, jsx accessibility, and no styling",
   "main": "eslint-config-react-important-stuff.js",
   "repository": {
